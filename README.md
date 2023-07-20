@@ -1,5 +1,5 @@
 # AtestatINFO
-A project made in python for my certificate in Computer Science in 2023.
+A project made in Python for my certificate in Computer Science in 2023.
 
 TETRISMANIA este o aplicație de calculator care poate fi folosită pentru a se juca o
 iterație de Tetris proiectată de mine. Motivul pentru care am ales această temă a fost pentru a
